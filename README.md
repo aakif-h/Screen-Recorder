@@ -11,3 +11,6 @@ to be used for screen recording, and I'll be sure to work on this later to add s
 * Add voice recording functionality
 * Support other video extensions _(this might already be implemented, need to run tests)_
 * Beautify the application's UI
+
+### Gallery
+<img src="img/screen_recorder.PNG">
